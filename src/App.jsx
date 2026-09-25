@@ -17,13 +17,13 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>mi-primer-awpHarry</h1>
+      <h1>mi-primer-awp</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
         <p>
-          Edit Harry styles <code>src/App.jsx</code> and save to test HMR
+          Edit Leslie Michelle <code>src/App.jsx</code> and save to test HMR
         </p>
       </div>
       <p className="read-the-docs">
